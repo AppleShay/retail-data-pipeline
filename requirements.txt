@@ -1,0 +1,13 @@
+# Data handling
+pandas
+numpy
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# Orchestration
+apache-airflow
+
+# Optional: for reading CSV/Excel from multiple formats
+openpyxl
